@@ -1,11 +1,20 @@
+ 
+
   .crystal-image {
-      width: 100px;
-      height: 100px;
+      width: 150px;
+      height: 150px;
     }
+
 h1 {
 	font-size: 30px;	
 }
 
 h2 {
 	font-size: 26px;
+}
+
+.panel-body{
+	background: orange;
+	border:20px;
+	border-color: blue;
 }
