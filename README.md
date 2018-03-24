@@ -1,4 +1,3 @@
-# week-4-game
 
 ### Crystals Collector Game
 Random crystals guessing game
